@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="3da2f755-bbac-4dc1-8c20-f40d3aa4d340"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="0e2d4d0c-c907-4201-9169-a799c43df4e6"  >
+</g>
+<g transform="matrix(0.75 0 0 0.75 540 540)"  >
+<linearGradient id="SVGID_paint0_linear_4232_2905_3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="720" y1="26.7275" x2="720" y2="766.728">
+<stop offset="0%" style="stop-color:rgb(239,239,239);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(245,245,246);stop-opacity: 0"/>
+</linearGradient>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint0_linear_4232_2905_3); fill-rule: nonzero; opacity: 1;"  transform=" translate(-720, -510.54)" d="M 945 0.727171 C 980.145 0.726886 1182 32.2273 1440 99.227 L 1440 1020.43 L 0 1020.43 L 0 549.43 C 172.167 568.93 485.213 527.781 588 254.025 C 687.5 -10.9749 777.5 0.72853 945 0.727171 Z" stroke-linecap="round" />
+</g>
+</svg>
